@@ -3,3 +3,4 @@
 cd /home/app/resources/assets
 npm install
 npm run buildCSS
+npm run buildHTML
